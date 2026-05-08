@@ -31,10 +31,7 @@ I build scalable digital products, from modern frontend experiences to secure ba
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Khaled-JS&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Khaled-JS&layout=compact&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Khaled-JS&theme=tokyonight)
 ---
 
 ## 🌍 Connect With Me
